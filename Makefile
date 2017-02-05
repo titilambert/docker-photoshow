@@ -1,4 +1,4 @@
-VERSION=3.20161112
+VERSION=3.20170203
 
 build:
 	docker build -t photoshow .
